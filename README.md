@@ -2,6 +2,9 @@
 [![MasterHead](https://code.iadb.org/sites/default/files/2021-10/CODE_BANNER_1254X433_ENG.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, this is Jahanara Mimi here</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
+<p>I choose to take a Bachelor of Computer Science & Engineering at University of Global Village,(UGV) in Bangladesh. Because I enjoy coding and solving problems. My hunger to learn and ability to work with any new kind of tools and technologies makes me unique and capable of writing production-ready code using HTML, CSS, Bootstrap on the Front-end Now, I am currently looking forward to a position where I can utilize my skills and grow with the growth of the company.</p>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanaramimi&label=Profile%20views&color=0e75b6&style=flat" alt="jahanaramimi" /> </p>
