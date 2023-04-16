@@ -1,11 +1,8 @@
 
 [![MasterHead](https://code.iadb.org/sites/default/files/2021-10/CODE_BANNER_1254X433_ENG.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, this is Jahanara Mimi here</h1>
-<h3 align="center">I'm a Computer Engineer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
-
-<h1 align="center">Hi 👋, this is Jahanara Mimi here</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanaramimi&label=Profile%20views&color=0e75b6&style=flat" alt="jahanaramimi" /> </p>
 
